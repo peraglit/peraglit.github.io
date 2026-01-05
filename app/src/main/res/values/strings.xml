@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Truck Simulator</string>
+    <string name="purchase_status_ready">Hazır: Satın alma akışı başlatılabilir.</string>
+    <string name="purchase_status_unavailable">Play Billing bağlantısı kurulamadı.</string>
+    <string name="purchase_action">Yakıt Paketi Satın Al</string>
+    <string name="game_status">Şehir içi teslimatlar için kamyonunu hazırla.</string>
+</resources>
